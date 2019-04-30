@@ -1,4 +1,4 @@
-## Privacy Policy
+## My Monthly Calendar Alexa Skill Privacy Policy
 My Monthly Calendar operates as an Amazon Alexa Skill created by George Duckett. it is my policy to respect your privacy regarding any information My Monthly Calendar may collect while operating.
 
 We use your Personal Information only to provide a personalized user experience. By enabling the skill, you agree to use of information in accordance with this policy.
