@@ -1,11 +1,11 @@
 ## My Monthly Calendar Alexa Skill Privacy Policy
-My Monthly Calendar operates as an Amazon Alexa Skill created by George Duckett. it is my policy to respect your privacy regarding any information My Monthly Calendar may collect while operating.
+My Monthly Calendar operates as an Amazon Alexa Skill created by George Duckett. It is my policy to respect your privacy regarding any information My Monthly Calendar may collect while operating.
 
 We use your Personal Information only to provide a personalized user experience. By enabling the skill, you agree to use of information in accordance with this policy.
 
 **Gathering of Personally-Identifying Information**
 
-Certain users of My Monthly Calendar choose to interact with it in ways that require it to gather personally-identifying information when users link their Google account. The amount and type of information that My Monthly Calendar gathers depends on the nature of the interaction. For example, we use the provided access token to fetch information about a user's calendar events. My Monthly Calendar collects such information only insofar as is necessary or appropriate to fulfill the purpose of the users's interaction with My Monthly Calendar. My Monthly Calendar does not disclose personally-identifying information other than as described below. And users can always refuse to supply personally-identifying information by not disabling the skill.
+Certain users of My Monthly Calendar choose to interact with it in ways that require it to gather personally-identifying information when users link their Google account. The amount and type of information that My Monthly Calendar gathers depends on the nature of the interaction. For example, we use the provided access token to fetch information about a user's calendar events. My Monthly Calendar collects such information only insofar as is necessary or appropriate to fulfill the purpose of the users's interaction with My Monthly Calendar. My Monthly Calendar does not disclose personally-identifying information other than as described below, and users can always refuse to supply personally-identifying information by not enabling the skill or by not linking to their Google account.
 
 **Information We Collect from Other Sources**
 
