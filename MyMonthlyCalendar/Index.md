@@ -3,5 +3,7 @@ My Monthly Calendar is an Alexa skill that displays events from a linked Google 
 
 When opened it will display your calendar allowing you to scroll, as much as Alexa allows depending on the number of events in your calendar. You can then ask it about various entries you have in your calendar, either via voice, or by tapping on an entry. You can also tap on a day and it will tell you what events you have then.
 
+[Privacy Policy](https://georgeduckett.github.io/PublicPages/PrivacyPolicies/MyMonthlyCalendar.html)
+
 **Only works with devices with a rectangular display.**
 **Not affiliated with or endorsed by Google.**
